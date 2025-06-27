@@ -3,7 +3,7 @@
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## Local Development
-
+hey i added something new  MYNAME = waqas
 Make sure you're on Node version 18+.
 
 Create a `.env` file in the root of the project with the following contents:
